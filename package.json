@@ -6,14 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node start/app.js",
-    "dev" : "nodemon start/app.js"
+    "dev": "nodemon start/app.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.12.2",
+    "mongoose": "^5.12.14",
     "validator": "^13.5.2"
   }
 }
